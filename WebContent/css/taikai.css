@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+.setumei {
+	margin: 0 auto;
+	width: 500px;
+}
+
+.setumei>p {
+	margin: 10px 0 0 0;
+}
+
+.section-main {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 500px;
+}
+
+.section-main>table {
+	width: 500px;
+	height: 300px;
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.taikai-msg {
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 500px;
+	text-align: center;
+	/*background-color: red;*/
+}
+
+.
+.taikai-msg>table {
+	width: 500px;
+	height: 50px;
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.Y {
+	width: 62px;
+}
+
+.section-main>h1 {
+	text-align: center;
+	margin: 0 0 20px 0;
+}
+
+.err {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 400px;
+	height: 100px;
+	border: 1px solid;
+}
+
+.taikai_cfm {
+	margin: 20px 0 20px 0;
+}
+
+.taikai_index {
+	font-size: 17px;
+	padding: 2px;
+	box-shadow: inset 0 0 0 1px #000;
+	border: 1px solid #333;
+	background: linear-gradient(#555555, black);
+	color: #f5f5f5;
+	padding-left: 10px;
+	width: 488px;
+}

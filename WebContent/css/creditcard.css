@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.main-section {
+	margin: 0 auto;
+	width: 550px;
+	height: 500px;
+	margin-top: 50px;
+	/*border: 1px solid;*/
+}
+
+table {
+	width: 550px;
+}
+
+.year {
+	width: 50px;
+}
+
+.month {
+	width: 50px;
+}
+
+.inpt {
+	width: 100%;
+	margin: 20px 0 0 7px;
+}
+
+.back {
+	width: 265px;
+	margin: 0 0 0 7px;
+}
+
+.signup {
+	width: 265px;
+}

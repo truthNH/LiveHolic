@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.section-main {
+	margin: 0 auto;
+	width: 700px;
+}
+
+.req {
+	margin: 0 auto;
+	width: 400px;
+	height: 100%;
+	overflow: hidden;
+	background-color: red;
+}
+
+.live_1 {
+	margin-left: 39px;
+}
+
+.section-main>h1 {
+	margin: 20px 0 20px 0;
+	text-align: center;
+}
+
+.soushin {
+	width: 40px;
+	height: 30px;
+	margin: 0 auto;
+}

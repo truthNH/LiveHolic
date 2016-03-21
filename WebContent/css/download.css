@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.section-main {
+	margin: 0 auto;
+	width: 400px;
+}
+
+.gazou {
+	width: 100px;
+	height: 100px;
+	/*background-color: red;*/
+}
+
+.dl {
+	margin: 0 0 0 330px
+}
+
+table {
+	width: 400px;
+}

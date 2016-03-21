@@ -1,0 +1,265 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	font-size: 10px;
+}
+
+.clearfix:after {
+	content: "."; /* 新しい要素を作る */
+	display: block; /* ブロックレベル要素に */
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+
+.rt {
+	float: right;
+}
+
+.lt {
+	display: inline-block;
+	magin: 0;
+	padding: 0;
+}
+
+.package-section1 {
+	background: #000;
+	border: solid 2px #000;
+	color: #fff;
+	margin: 20px auto;
+	width: 806px;
+	height: 212px;
+}
+
+.package-img {
+	width: 210px;
+	height: 210px;
+}
+
+.package-list {
+	width: 320px;
+	height: 100%;
+	float: right;
+}
+
+.package-con {
+	width: 230px;
+	height: 172px;
+	padding: 20px;
+	float: right;
+	font-size: 10px;
+	border-left: 1px solid;
+}
+
+#live-title {
+	color: #f20e48;
+	font-size: 15px;
+	padding: 10px 10px 0 10px;
+}
+
+#arthist-name-box {
+	font-weight: bold;
+	padding: 0 10px;
+	margin-bottom: 5px;
+}
+
+.arthist-name {
+	font-size: 12px;
+	font-style: italic;
+	padding-right: 7px;
+}
+
+#venue {
+	font-size: 12px;
+	padding: 0 0 0 10px;
+	margin-bottom: 10px;
+}
+
+.label {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 10px;
+	padding: 0 0 0 10px;
+	margin: 0;
+	width: 60px;
+}
+
+.detail {
+	display: inline-block;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0 0 0 10px;
+}
+
+.package-list>p {
+	font-weight: bold;
+}
+
+.buy-all {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 806px;
+}
+
+.buy-single {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 806px;
+}
+
+.bor {
+	background: #000;
+	color: #fff;
+	font-size: 11px;
+	height: 25px;
+	line-height: 25px;
+}
+
+.bor:nth-child(2n) {
+	background: #2e302e;
+}
+
+.stl01 {
+	text-align: center;
+	width: 20px;
+	/*background-color: red;*/
+}
+
+.stl02 {
+	width: 60px;
+	text-align: center;
+	/*background-color: blue;*/
+}
+
+.stl03 {
+	padding-left: 5px;
+	width: 260px;
+	/*background-color: green;*/
+}
+
+.stl04 {
+	width: 100px;
+	text-align: center;
+	/*background-color: #ccc;*/
+}
+
+.stl04_ch {
+	width: 100px;
+	font-size: 10px;
+	text-align: center;
+	/*background-color: #ccc;*/
+}
+
+.stl05 {
+	width: 150px;
+	text-align: center;
+	/*background-color: #ccc;*/
+}
+
+.stl06 {
+	width: 50px;
+	text-align: center;
+	/*background-color: #ccc;*/
+}
+
+.stl07 {
+	width: 50px;
+	text-align: center;
+	/*background-color: #ccc;*/
+}
+
+.stl10 {
+	padding-left: 10px;
+	width: 220px;
+	/*background-color: #ccc;*/
+}
+
+.listen {
+	width: 560px;
+	/*background-color: #ccc;*/
+	text-align: center;
+}
+
+.bor3 {
+	margin: 7px 170px 0 0;
+}
+
+.buy-single>.abc>input {
+	margin: 7px 273px 0 0;
+	float: right;
+}
+
+.kaimono {
+	margin: 10px 0 0 635px;
+	width: 250px;
+}
+
+.bor2 {
+	margin: 0 70px 0 0;
+}
+
+.bor4 {
+	margin-right: 30px;
+}
+
+.bor5 {
+	margin: 7px 0 0 0;
+}
+
+.package-section3 {
+	margin: 0 auto;
+	width: 806px;
+}
+
+.package-section3>h3 {
+	margin-bottom: 10px;
+}
+
+.lev-content {
+	width: 260px;
+	margin: 0 1px 0 5px;
+	/*border: 1px solid;  */
+}
+
+.lev-content>h3 {
+	margin-top: 10px;
+}
+
+.lev-content>p {
+	margin-top: 5px;
+}
+
+.lev-msg {
+	padding: 4px;
+	width: 248px;
+	height: 80px;
+	border: 1px solid;
+}
+
+img {
+	vertical-align: text-bottom;
+}
+
+.message-1 {
+	background: #000;
+	color: #fff;
+	font-size: 18px;
+	height: 30px;
+	line-height: 30px;
+	margin: 20px auto;
+	text-align: center;
+	width: 806px;
+}
+
+h4 {
+	background: #000;
+	color: #fff;
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+}

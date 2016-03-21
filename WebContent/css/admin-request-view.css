@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.record {
+	width: 600px;
+}
+
+.customer_id {
+	display: inline-block;
+	padding: 5px 0;
+	width: 150px;
+}
+
+.live_name {
+	display: inline-block;
+	padding: 5px 0;
+	width: 200px;
+}
+
+.datetime {
+	display: inline-block;
+	padding: 5px 0;
+	width: 200px;
+}

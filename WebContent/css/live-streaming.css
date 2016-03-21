@@ -1,0 +1,131 @@
+@CHARSET "UTF-8";
+
+#video-all-wrapper {
+	float: left;
+	margin: 50px 0 70px 40px;
+	width: 630px;
+}
+
+h1 {
+	background: #000;
+	color: #fff;
+	font-weight: bold;
+	height: 30px;
+	padding: 3px 0 3px 20px;
+	margin: 0;
+	width: 610px
+}
+
+#comment-num {
+	background: #000;
+	border-bottom: solid 1px #fff;
+	color: #fff;
+	font-size: 12px;
+	height: 22px;
+	margin: 0;
+	padding: 0 20px 5px 0;
+	text-align: right;
+	width: 610px
+}
+
+#video-wrapper {
+	background: #000;
+	height: 370px;
+	margin: 0;
+	position: relative;
+	width: 630px
+}
+
+#viewArea {
+	background: #000;
+	clip: rect(0px, 600px, 380px, 0px);
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 20px;
+	left: 15px;
+}
+
+.comment {
+	position: absolute;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	font-size: 23px;
+	width: 1000px;
+}
+
+#currentTelop {
+	position: absolute;
+	color: red;
+	text-shadow: 1px 1px 1px #000;
+	font-size: 23px;
+	width: 1000px;
+}
+
+#controller {
+	background: #000;
+	padding: 10px 0 10px 20px;
+	margin: 0;
+	width: 610px;
+}
+
+#text {
+	display: inline-block;
+	margin: 0 10px 0 0;
+	width: 350px;
+}
+
+#play {
+	margin-left: 20px;
+}
+
+#form2 {
+	margin-left: 100px;
+	margin-top: 380px;
+}
+
+#set-list {
+	margin: 50px 0 70px 0;
+	float: left;
+	height: 479px;
+	width: 250px;
+}
+
+#set-list-scroll {
+	height: 435px;
+	overflow-y: auto;
+	width: 250px;
+}
+
+h2 {
+	background: #000;
+	color: #fff;
+	font-size: 15px;
+	height: 30px;
+	padding: 5px 0 5px 10px;
+	line-height: 30px;
+}
+
+.title {
+	background: #232224;
+	color: #b7b6be;
+	display: block;
+	height: 21px;
+	line-height: 21px;
+	padding-left: 5px;
+}
+
+.title:nth-child(2n) {
+	background: #000;
+}
+
+#set-list-scroll a {
+	color: #b7b6be;
+	font-size: 11px;
+}
+
+#set-list-scroll a:hover {
+	background: #fff;
+	color: #000;
+	font-size: 11px;
+}

@@ -1,0 +1,281 @@
+@charset "utf8";
+
+label {
+	display: inline-block;
+	font-size: 12px;
+	text-align: right;
+	width: 150px;
+}
+
+.formCol {
+	height: 30px;
+	line-height: 30px;
+}
+
+.example {
+	color: #b9b3bf;
+	padding-left: 10px
+}
+
+#index {
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	width: 1200px;
+}
+
+.record {
+	font-size: 10px;
+	margin-bottom: 15px;
+	width: 1200px;
+}
+
+.record-form {
+	display: inline-block;
+	font-size: 10px;
+	margin-bottom: 15px;
+	width: 1100px;
+}
+
+.record2 {
+	display: inline-block;
+	font-size: 10px;
+	margin-bottom: 15px;
+	width: 890px;
+}
+
+.live_id {
+	display: inline-block;
+	width: 50px
+}
+
+.live_name {
+	display: inline-block;
+	width: 200px;
+}
+
+.arthist_name {
+	display: inline-block;
+	width: 130px;
+}
+
+.genre_name {
+	display: inline-block;
+	width: 70px
+}
+
+.total_length {
+	display: inline-block;
+	width: 80px
+}
+
+.venue_name {
+	display: inline-block;
+	width: 100px
+}
+
+.lable_name {
+	display: inline-block;
+	width: 130px
+}
+
+.live_date {
+	display: inline-block;
+	width: 70px
+}
+
+.product_introduction {
+	display: inline-block;
+	width: 200px
+}
+
+.total_track {
+	display: inline-block;
+	width: 30px;
+}
+
+.product_name {
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	width: 200px;
+}
+
+.product_id {
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	width: 150px;
+}
+
+.comment-num {
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+}
+
+.id {
+	display: inline-block;
+	width: 50px;
+}
+
+.sec {
+	display: inline-block;
+	width: 100px;
+}
+
+.comment {
+	display: inline-block;
+	width: 500px;
+}
+
+.form {
+	display: inline-block;
+	font-size: 13px;
+	width: 100px;
+	text-align: center;
+}
+
+.comment-delete {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.button {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.customer-id {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.user-id {
+	display: inline-block;
+	text-align: center;
+	width: 100px;
+}
+
+.email {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.passwd {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.first-name {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.last-name {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.customer_id {
+	display: inline-block;
+	width: 50px;
+}
+
+.live_name {
+	display: inline-block;
+	width: 150px;
+}
+
+.datetime {
+	display: inline-block;
+	width: 200px;
+}
+
+.record-date {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.user-delete {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.req-delete {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.req-num {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.req-date {
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+.record-wrapper {
+	display: inline-block;
+	width: 1200px;
+}
+
+.to-product {
+	display: inline-block;
+	text-align: center;
+	width: 50px;
+}
+
+.product_id2 {
+	display: inline-block;
+	text-align: center;
+	width: 100px;
+}
+
+.product_name2 {
+	display: inline-block;
+	width: 200px;
+}
+
+.product_category {
+	display: inline-block;
+	width: 100px;
+}
+
+.time {
+	display: inline-block;
+	width: 100px;
+}
+
+.format {
+	display: inline-block;
+	width: 100px;
+}
+
+.price {
+	display: inline-block;
+	width: 80px;
+}
+
+.track_number {
+	display: inline-block;
+	width: 50px;
+}
